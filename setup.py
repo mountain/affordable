@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="affordable",
-    version="0.0.0",
+    version="0.0.1",
     author="Mingli Yuan",
     author_email="mingli.yuan@gmail.com",
     description="Affordable is an abstraction layer to facilitate RL environment developing",
@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url=" https://pypi.org/project/affordable",
     project_urls={
-        'Documentation': 'https://packaging.python.org/tutorials/distributing-packages/',
+        'Documentation': 'https://github.com/mountain/affordable',
         'Source': 'https://github.com/mountain/affordable',
         'Tracker': 'https://github.com/mountain/affordable/issues',
     },
