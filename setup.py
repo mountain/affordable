@@ -11,7 +11,7 @@ setuptools.setup(
     description="Affordable is an abstraction layer to facilitate RL environment developing",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/mountain/affordable",
+    url=" https://pypi.org/project/affordable",
     project_urls={
         'Documentation': 'https://packaging.python.org/tutorials/distributing-packages/',
         'Source': 'https://github.com/mountain/affordable',
